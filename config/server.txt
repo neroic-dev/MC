@@ -1,0 +1,51 @@
+# ============================================================
+#  SERVER-EINSTELLUNGEN
+#
+#  - Zeilen mit # am Anfang sind Kommentare (werden ignoriert)
+#  - Format:  schluessel = wert
+#  - Nach dem Speichern genügt ein Neuladen der Seite (F5)
+# ============================================================
+
+
+# --- Allgemein ---------------------------------------------
+name           = Wintercraft 26/27
+untertitel     = Willkommen zu
+beschreibung   = Um dem Server beitreten zu können musst du whitelisted sein. Schreibe mir dafür auf Discord deinen Namen.
+
+# --- Verbindung --------------------------------------------
+# Wird groß im Kopfbereich angezeigt, mit "Kopieren"-Button.
+ip             = 5.101.165.10:12000
+version        = 26.3
+loader         = Fabric
+serversoftware = Paper
+
+
+# --- Laufzeit / Countdown ----------------------------------
+# Format: JJJJ-MM-TT HH:MM   (Beispiel: 2026-12-31 23:59)
+# "ende" leer lassen = Server läuft unbefristet (kein Countdown)
+# "start" ist optional und steuert den Fortschrittsbalken.
+start          = 2026-11-15 10:00
+ende           = 2027-01-15 
+zeitzone       = Europe/Berlin
+ende_text      = Dieser Server ist abgelaufen. Danke fürs Mitspielen!
+
+
+# --- Aussehen ----------------------------------------------
+# Akzentfarbe als Hex-Code. Helle bis mittlere Farben wirken am besten.
+akzentfarbe    = #7cf5b0
+
+
+# --- Reihenfolge der Abschnitte ----------------------------
+# Mögliche Werte: setup, mods, plugins, links, news
+# Einen Wert weglassen = Abschnitt wird ausgeblendet.
+reihenfolge    = setup, mods, plugins,
+
+
+# --- Live-Status (optional) --------------------------------
+# "ja" zeigt Online/Offline und Spielerzahl an.
+# Funktioniert nur mit einer echten, öffentlich erreichbaren IP.
+status_anzeigen = ja
+
+
+# --- Fußzeile ----------------------------------------------
+footer         = 

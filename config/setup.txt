@@ -1,0 +1,30 @@
+# ============================================================
+#  SETUP-ANLEITUNG
+#
+#  Kopfzeilen (optional):
+#    @titel        = Überschrift des Abschnitts
+#    @nav          = Kurzname im Menü oben
+#    @tag          = kleines Label über der Überschrift (leer = ausblenden)
+#    @aktualisiert = Datum der letzten Änderung (JJJJ-MM-TT)
+#    @intro        = Einleitungstext
+#    @buttontext   = Standard-Text für die Buttons
+#
+#  Jede weitere Zeile ist ein Schritt (wird automatisch nummeriert):
+#    Titel | Beschreibung | Link (optional) | Button-Text (optional)
+#
+#  Im Text möglich:  **fett**   `code`   [Linktext](https://...)
+#  Wichtig: Das Zeichen | trennt die Spalten – nicht im Text verwenden.
+# ============================================================
+
+@titel = In 5 Schritten zum Mitspielen
+@nav = Setup
+@tag = 
+@aktualisiert = 
+@intro = Folge diesen Schritten der Reihe nach.
+@buttontext = Öffnen
+
+Minecraft starten | Öffne den Launcher und wähle die Java Edition. Für diesen Server brauchst du Version **26.3**. | https://www.minecraft.net/de-de/download | Minecraft
+Fabric installieren | Lade den Installer herunter und starte diesen. | https://drive.google.com/drive/folders/1D2FDyHPAV2OSH_GzSdUHARrlvLTGz6VW?usp=drive_link | Fabric-Installer
+Mods herunterladen | Lade alle Mods aus der Liste weiter unten herunter und verschiebe sie in den `mods`-Ordner deines Minecraft-Verzeichnisses. | https://drive.google.com/drive/folders/1kBUFay-n7g_MM1ejKHf5MDO2ndvQYahh?usp=drive_link | Zum Mod-Downlaod
+Server hinzufügen | Starte das Fabric-Profil, gehe auf **Mehrspieler → Server hinzufügen** und trage die Server-IP **5.101.165.10:12000** ein.
+Joine auf Discord | Wintercraft 26/27 Discord-Server | https://discord.gg/vYu4523rQ | Discord
