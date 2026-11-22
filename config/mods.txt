@@ -27,7 +27,6 @@
 @intro = Diese Mods installierst du bei dir selbst (Client). Alle sind optional aber verbessern das Spielerlebnis.
 @buttontext = Download
 
-Inventroy Profiles Next | Ermöglicht schnelles sortieren und organisieren von Items im Inventar und Kisten. | https://drive.google.com/file/d/1WII6g5it6hEKDYhDmRm6kZB1W33bGuSI/view?usp=drive_link
 Mod Menu | Integriert ein Modmenü in den Einstellungen von Minecraft | https://drive.google.com/file/d/1OAEmZzKrhDtHsTHHCBu8_0tIt_5Nzk9G/view?usp=drive_link
 Xaero Minimap | Integriert eine Minimap in den Minecraft-Client | https://drive.google.com/file/d/1CjPZAYHZm8ToDN5ozQVU-Vns_t0JRgoY/view?usp=drive_link
 Fabric Language Kotlin | Wird von anderen Mods benötigt um korrekt zu funktionieren. | https://drive.google.com/file/d/1PtToGEAkYdHcLY4QA5EHOhBHCbPG4f7E/view?usp=drive_link
